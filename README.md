@@ -1,7 +1,7 @@
-# AI-Powered Landing Page Generator
+# AI-Powered product webpage generator
 
 ## Project Overview
-This project is about using AI to generate high-converting, mobile-first landing pages from scratch. I built an end-to-end workflow that takes a consumer product idea and turns it into a full landing page guide using chain prompting, model evaluation, and Lovable (a prompt-to-website tool). It's aimed at marketers, product teams, and founders who want fast, optimized web copy without starting from zero.
+This project is about using AI to generate a landing website for a product from scratch. I built an end-to-end workflow that takes a consumer product idea and turns it into a full landing page guide using chain prompting, model evaluation, and Lovable (a prompt-to-website tool). It's aimed at marketers, product teams, and founders who want fast, optimized web copy without starting from zero.
 
 ## Objectives
 - Use **chain prompting** to break down a single input into structured, conversion-optimized sections.
