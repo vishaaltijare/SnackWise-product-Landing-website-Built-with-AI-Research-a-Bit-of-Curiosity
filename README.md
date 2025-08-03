@@ -46,7 +46,7 @@ This project is about using AI to generate high-converting, mobile-first landing
 
 ## Key Insights
 - AI can generate not just web content, but a full structured guide—from hero sections to wireframes.
-- Clear prompt scaffolding leads to more useful, human-like results.
+- Using clear step-by-step prompts helps the AI give better, more natural answers
 - Evaluating model outputs critically (not blindly accepting) leads to sharper, more effective messaging.
 - Small tweaks in tone and CTA placement massively impact conversion potential.
 
@@ -63,5 +63,6 @@ This project is about using AI to generate high-converting, mobile-first landing
 ## 🖥️ Live Landing Page (via Lovable)
 👉 [View SnackWise landing page here](https://snackwise-landing-page.lovable.app/)
 
-## 📝 PDF Output of Landing Page
-📄 [Landing page in PDF form](./Landing%20page%20in%20PDF%20form.pdf)
+## 📝 PDF Output of Landing Page  
+📄 [Landing page in PDF form](./lovable%20website%20PDF.pdf)
+
