@@ -64,5 +64,6 @@ This project is about using AI to generate a landing website for a product from 
 👉 [View SnackWise landing page here](https://snackwise-landing-page.lovable.app/)
 
 ## 📝 PDF Output of Landing Page  
-📄 [Landing page in PDF form](./lovable%20website%20PDF.pdf)
+📄 [Landing page in PDF form](./Screenshots/lovable%20website%20PDF.pdf)
+
 
